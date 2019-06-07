@@ -1,3 +1,1 @@
-Hello, Git
-Hello, again
-Updating README with new info.
+A placeholder README file that differs from the local copy's.
